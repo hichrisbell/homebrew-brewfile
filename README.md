@@ -8,7 +8,7 @@ My Mac mini Brewfile
 2. Sign into the Mac App store, so that `mas` app installs work via Homebrew.
 3. Copy the Brewfile to the Document folder and call the following command:
 ```
-brew bundle --file ~/Documents/Brewfile-basic
+brew bundle --file ~/Documents/Brewfile
 brew bundle install
 ```
 4. macOS Preferences
