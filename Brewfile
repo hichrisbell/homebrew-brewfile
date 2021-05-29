@@ -9,6 +9,7 @@ tap "homebrew/cask"
 tap "homebrew/cask-fonts"
 tap "homebrew/core"
 tap "homebrew/services"
+tap "buo/cask-upgrade"
 
 # Install packages
 brew "awscli"
