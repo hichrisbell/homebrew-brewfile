@@ -26,5 +26,14 @@ brew bundle install
 16. Mail preferences
 17. Local settings
 18. zoom.us preferences
-19. Spotify preferences
-20. Sublime Text preferences
+* General > (DISABLE) Prompt a confirmation before leaving a meeting
+* General > Always show meeting controls
+* General > Show my meeting duration
+* Video > Touch up my appearance
+* Video > Stop my video when joining a meeting
+* Audio > Automatically join computer audio when joining a meeting
+* Audio > Mute my mic when joining a meeting
+* Share Screen > Maximize window
+* Share Screen > When I share directly to a Zoom Room > Show all sharing options
+20. Spotify preferences
+21. Sublime Text preferences
