@@ -17,6 +17,10 @@ brew "git"
 brew "php"
 brew "mas"
 brew "node"
+brew "ruby"
+brew "python3"
+brew "libxml2"
+brew "libxslt"
 
 # Essentials
 cask "1password"
