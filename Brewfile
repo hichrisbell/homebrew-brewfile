@@ -90,6 +90,7 @@ cask "font-jetbrainsmono-nerd-font"
 cask "font-jetbrainsmono-nerd-font-mono"
 
 # Utilities
+cask "blackhole-16ch"
 cask "imageoptim"
 cask "launchpad-manager"
 mas "Amphetamine", id: 937984704
